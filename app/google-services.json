@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "926193079262",
+    "project_id": "wiretest-74a9c",
+    "storage_bucket": "wiretest-74a9c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926193079262:android:9eb1a1fddf6ee8a9af834f",
+        "android_client_info": {
+          "package_name": "com.example.wiretest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPXyq8bHtEvvwWoUhFScz9BNQDeOZcVSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
